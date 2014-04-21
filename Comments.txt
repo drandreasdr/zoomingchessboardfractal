@@ -1,0 +1,5 @@
+In converting from Java to Python, remember:
+>Put "self." before instance fields and as the first argument of methods.
+>Initializations where the value is set should be moved from the "class scope" to inside the constructor.
+>Integer division! Really confusing in Python 2, much better in Python 3.
+>Drawn graphics flicker (visible on screenshots), I wonder why.
